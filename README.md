@@ -18,7 +18,16 @@
 - 📄 Know about my experiences <a href="https://linkedin.com/in/enzomagurno" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo magurno" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I am a volleyball player as opposite. Not everything is programming 😁**
-
+```
+const about = () =>{
+  mood: 'Focusing on dev'
+  languages:[
+  {spanish:'100 %',
+   english: '70 %'
+  }
+]
+}
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enzomagurno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo magurno" height="30" width="40" /></a>
