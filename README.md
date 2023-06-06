@@ -19,14 +19,12 @@
 
 - ⚡ Fun fact **I am a volleyball player as opposite. Not everything is programming 😁**
 ```
-const about = mood =>{
-   return me=[
+const about = mood => me = [
   {spanish:'100 %',
    english: '60 %'
   },
   mood
 ]
-}
 about('Focusing on DEV') // ;D
 ```
 <h3 align="left">Connect with me:</h3>
