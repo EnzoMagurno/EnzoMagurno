@@ -20,11 +20,11 @@
 - ⚡ Fun fact **I am a volleyball player as opposite. Not everything is programming 😁**
 ```
 const about = mood =>{
-  mood,
-  languages:[
+   return me=[
   {spanish:'100 %',
-   english: '70 %'
-  }
+   english: '60 %'
+  },
+  mood
 ]
 }
 about('Focusing on DEV') // ;D
