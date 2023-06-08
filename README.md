@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **RESORT HOTEL, TODO-LIST, MP3/MP4 DOWNLOADER**
 
-- 🌱 I’m currently learning **Mongo DB, Tailwind CSS**
+- 🌱 I’m currently learning **Mongo DB, NextJs, Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **web projects**
 
