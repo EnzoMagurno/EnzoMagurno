@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/enzomagurno" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo magurno" height="30" width="40" /></a>
 
-- ⚡ Fun fact **I am a volleyball player as opposite. Not everything is programming 😁**
+- ⚡ Fun fact **I am a volleyball player as opposite hitter. Not everything is programming 😁**
 ```
 const about = mood => me = [
   {spanish:'100 %',
