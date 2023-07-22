@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzomagurno" alt="enzomagurno" /></a> </p>
 
-- 🔭 I’m currently working on **RESORT HOTEL, TODO-LIST, MP3/MP4 DOWNLOADER**
+- 🔭 I’m currently working on **BOOK STORE, TODO-LIST, MP3/MP4 DOWNLOADER**
 
 - 🌱 I’m currently learning **Mongo DB, Tailwind CSS**
 
