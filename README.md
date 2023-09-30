@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enzomagurno&label=Profile%20views&color=0e75b6&style=flat" alt="enzomagurno" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzomagurno" alt="enzomagurno" /></a> </p>
 
 - 🔭 I’m currently working on **BOOK STORE, TODO-LIST, MP3/MP4 DOWNLOADER**
 
