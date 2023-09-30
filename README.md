@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **BOOK STORE, TODO-LIST, MP3/MP4 DOWNLOADER**
 
-- 🌱 I’m currently learning **Mongo DB, Tailwind CSS**
+- 🌱 I’m currently learning **Mongo DB, AWS, Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **web projects**
 
-- 💬 Ask me about **React, Express, SQL, JavaScript**
+- 💬 Ask me about **React, Express, SQL, JavaScript, TypeScript**
 
 - 📫 How to reach me ✉️ **magurnoenzo31602@gmail.com**
 
