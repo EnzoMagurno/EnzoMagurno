@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Express, SQL, JavaScript, TypeScript**
 
-- 📫 How to reach me ✉️ **magurnoenzo31602@gmail.com**
+- 📫 How to reach me ✉️ **eemagurno@gmail.com**
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/enzomagurno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo magurno" height="30" width="40" /></a>
 
