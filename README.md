@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzomagurno" alt="enzomagurno" /></a> </p>
 
+- 📫 How to reach me ✉️ **eemagurno@gmail.com**
+
 - 🔭 I’m currently working on **BOOK STORE, TODO-LIST, MP3/MP4 DOWNLOADER**
 
 - 🌱 I’m currently learning **Mongo DB, AWS, Tailwind CSS**
@@ -12,8 +14,6 @@
 - 👯 I’m looking to collaborate on **web projects**
 
 - 💬 Ask me about **React, Express, SQL, JavaScript, TypeScript**
-
-- 📫 How to reach me ✉️ **eemagurno@gmail.com**
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/enzomagurno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo magurno" height="30" width="40" /></a>
 
